@@ -1,1 +1,4 @@
-KXDKacHcImGNHfsSRxityDTnFVyNlPCFceivHqkBtHbdoeeiwv
+We found that
+HTTP and SOCKS abuses originate from few nodes
+and show strongly correlations between language and
+CC of origin, suggesting that they are close to the origin of the campaign.
