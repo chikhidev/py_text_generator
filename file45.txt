@@ -1,0 +1,9 @@
+In particular, we found strong relations between the
+origin of the spam and how it abused the
+network, and also between operating systems
+and types of abuse.
+1 Introduction
+Despite current strategies to minimize the impact of
+spams, it is necessary a continuous effort to understand
+in detail how spammers generate, distribute and disseminate their messages in the network, to maintain
+and even improve the effectiveness of anti-spam mechanisms (Pu & Webb, 2006).
