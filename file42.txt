@@ -1,0 +1,3 @@
+First, we generate profiles for
+each campaign, determining the characteristics that
+are shared by the spams in that campaign.
