@@ -1,0 +1,7 @@
+Approximately 50 % of the
+campaigns come from only 10 sources when abusing
+HTTP/SOCKS proxies, while 80 % come from more
+than 10 IPs (and 40 % come from more than 100 addresses) when abuses are directed to the open relay.
+Spammers chain proxies to SMTP servers
+If we look at the next hop intended for the proxy connections, there were 215,719 different IPs targeted, in
+189 unique CCs.
