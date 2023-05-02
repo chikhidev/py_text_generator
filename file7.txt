@@ -1,1 +1,3 @@
-ghDlJuNKthIGxGzTjGoR
+In
+Table 4, we have presented only some few rules showing countries sending spams in Chinese through open
+relays, but, actually, this is seen for all the other countries in our dataset.
