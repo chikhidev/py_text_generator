@@ -1,0 +1,4 @@
+Our
+goal is different from those works in the sense that
+we intend to identify spam campaigns to characterize
+them in terms of content and network obfuscation.
