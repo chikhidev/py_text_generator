@@ -1,0 +1,7 @@
+For this analysis,
+we did not include address in the .com domain (e.g.,
+yahoo.com or gmail.com), since the user behind such
+accounts could be virtually on any part of the globe.
+Using that information, we applied an association rule
+mining algorithm (Tan et al., 2005) to each campaign’s
+data.
