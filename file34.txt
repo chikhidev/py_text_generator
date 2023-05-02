@@ -1,0 +1,5 @@
+Table 5
+summarizes the results in terms of the country codes
+and IP addresses of origin of those messages.
+It seems the two kinds of messages are associated with
+two different spamming tools.
