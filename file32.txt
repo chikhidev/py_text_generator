@@ -1,0 +1,4 @@
+In summary, one fundamental aspect of our
+campaign identification technique is that obfuscation
+patterns are not defined a priori; they are naturally
+detected.
