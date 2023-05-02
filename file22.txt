@@ -1,0 +1,19 @@
+A temporal analysis of campaigns evolution is also being considered.
+We intend to deploy honeypots in other countries.
+With that we can have a more global view of how
+spammers abuse network resources around the Internet.
+Table 6: Association rules – Operating Systems and Abuse Types
+rule antecedent (if ) consequent (then) support confidence lift
+1 OS: Linux Abuse: Open Relay 1.3 % 97.0 % 8.0
+2 OS: FreeBSD Abuse: Open Relay 0.7 % 100 % 8.2
+3 OS: Solaris Abuse: Open Relay 0.6 % 100 % 8.2
+4 OS: Windows Abuse: Open Relay 4.1 % 7 % 0.6
+5 OS: Windows Abuse: HTTP 7.1 % 62 % 0.9
+6 OS: Windows Abuse: SOCKS 15.3 % 31 % 1.2
+7 OS: Unknown Abuse: HTTP 49.8 % 72 % 1.0
+8 OS: Unknown Abuse: SOCKS 16.1 % 26 % 1.0
+Acknowledgements
+This work was partially supported by NIC.br, CNPq,
+CAPES, Finep and Fapemig.
+References
+Anderson, D.
