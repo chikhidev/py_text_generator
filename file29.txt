@@ -1,0 +1,17 @@
+There were
+no campaigns that abused only open relays.
+ 0
+ 0.2
+ 0.4
+ 0.6
+ 0.8
+ 1
+ 1 10 100 1000 10000 100000
+P(X < x)
+number of unique IP numbers
+CDF - number of unique IPs abusing proxies and Relay on each campaign
+unique IPs abusing Open Relay
+unique IPs abusing proxies
+Figure 3: Unique IPs abusing proxies and relay on each
+campaign
+Even on campaigns that included abuse to both proxies and relays, the pattern differed between them.
