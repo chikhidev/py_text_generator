@@ -1,0 +1,5 @@
+We also determined some relations between operating systems and abuse types, indicating
+that Linux and Solaris systems are rarely used as the
+origin of abuses to HTTP and SOCKS proxies.
+As future work, we will compare our campaign identification technique with other approaches available
+on the literature.
