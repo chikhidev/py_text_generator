@@ -1,0 +1,3 @@
+Messages of type 1 came
+mostly from TW, from a relatively large number of IP
+addresses.
