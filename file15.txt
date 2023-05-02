@@ -1,0 +1,5 @@
+We define a campaign
+as a set of messages that have the same goal (e.g.,
+advertising a specific product) and employ the same
+obfuscation strategy, which comprises either content
+obfuscation and network exploitation strategies.
