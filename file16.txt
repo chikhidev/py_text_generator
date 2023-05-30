@@ -1,0 +1,3 @@
+In order
+to implement such clustering, it is necessary to both
+determine the criteria and their hierarchical organization.
