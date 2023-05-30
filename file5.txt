@@ -1,3 +1,7 @@
-An open proxy allows
-connections to be made from any origin to any destination IP address or port, and is traditionally abused
-for sending spam.
+Although data mining has been extensively applied on
+a wide range of contexts such as e-commerce, bioinformatics and industrial applications (Tan et al.,
+2005), we are not aware of any work that applied
+data mining techniques for spam characterization purposes.
+3 Methodology
+In this section, we present our methodology for characterizing spammers’ strategies for dissemination of
+spam messages.
