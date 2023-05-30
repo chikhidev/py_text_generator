@@ -1,0 +1,5 @@
+Moreover, machines abusing the open relay send much fewer messages over time: while an AS abusing the open relay
+sent less than 2,000 messages over the period, ASes exploiting HTTP and SOCKS sent more than 1,000,000
+and 380,000 messages on average, respectively.
+This preference for abusing proxies may be explained
+by the need to better cover the origin of the spam.
