@@ -1,0 +1,2 @@
+A proxy is
+a server that acts as an intermediary, making connections on behalf of other clients.
