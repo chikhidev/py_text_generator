@@ -1,4 +1,0 @@
-Finally, the identification of spam campaigns neutralize the effect of the variable volume of messages associated to each spam campaign, which might hide frequent behaviors happening only on smaller campaigns.
-After identifying the messages that were generated
-from the same spam campaign, we propose a methodology for characterizing spam dissemination strategies.
-The methodology is based on the detection of invariants and co-occurrence of mechanisms for sending messages adopted by a single campaign.

@@ -1,2 +1,0 @@
-Despite being responsible
-for a small volume of messages, open relay abuses account for 98.6 % of the unique ASes abusing the honeypots during the period considered.

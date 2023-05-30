@@ -1,2 +1,0 @@
-Figure 3 shows, for those campaigns, the cumulative distribution function of the number of IP addresses seen
-in any campaign abusing proxies or the relay.

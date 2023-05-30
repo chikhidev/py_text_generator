@@ -1,8 +1,0 @@
-These invariants
-and patterns represent spamming behaviors and may
-be used for definition of criteria for detection, identification and minimization of the impact of spam.
-We applied our characterization methodology to 97
-million spam messages captured during 12 months
-by low-interaction honeypots (Provos & Holz, 2007),
-which were configured to emulate computers with open
-relays and open proxies.

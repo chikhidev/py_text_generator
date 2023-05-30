@@ -1,3 +1,0 @@
-Besides language, type, layout, and
-subject, URL information is also crucial for clustering
-messages into campaigns (Yeh & Lin, 2006).

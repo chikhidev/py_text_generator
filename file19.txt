@@ -1,9 +1,0 @@
-We were able to find strong
-relations between the origin of the spam and how it
-abused the network and also between operating systems and these abuse types.
-2 Related Work
-Many recent works have studied spammers’ abuse
-strategies, both considering network behavior and content obfuscation.
-In (Ramachandran & Feamster, 2006) the authors analyze how spammers exploit the Internet infrastructure
-to send their messages, including the most popular IP
-ranges exploited for sending spam and the more common abuse types, such as bots and BGP hijacking.

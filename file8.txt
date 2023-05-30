@@ -1,6 +1,0 @@
-The way those URLs are grouped
-and how often they are obfuscated in each campaign,
-however, varies widely among campaigns.
-We have identified three types of campaigns in terms
-of obfuscation of URLs: static campaigns, campaigns
-with sub-campaigns, and random-obfuscated campaigns.

@@ -1,2 +1,0 @@
-In this paper, we propose a novel
-and scalable methodology for identifying spam campaigns.

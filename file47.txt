@@ -1,3 +1,0 @@
-Further, since the duration of the campaigns is relatively
-short, we assume that the obfuscation mechanisms employed for a given campaign do not change significantly
-across time.

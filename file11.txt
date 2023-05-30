@@ -1,3 +1,0 @@
-Association rules 1 to 3 show that machines configured
-with Linux, FreeBSD and Solaris abuse the honeypots mainly as open relays, in the vast majority of
-the abuses observed.

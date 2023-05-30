@@ -1,2 +1,0 @@
-A SOCKS proxy emulator was developed as
-part of this work to complement the existing emulators (Steding-Jessen et al., 2008).

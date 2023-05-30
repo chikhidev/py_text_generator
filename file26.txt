@@ -1,3 +1,0 @@
-When colors are available, each node’s color
-represents a different feature that varied among the
-messages at that level.

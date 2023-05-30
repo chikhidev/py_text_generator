@@ -1,4 +1,0 @@
-In
-our dataset, over half of the operating systems of
-the machines which abused our honeypots could not
-be identified (rules 7 and 8).

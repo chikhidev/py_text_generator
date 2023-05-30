@@ -1,4 +1,0 @@
-To deeply understand how spammers
-abuse network resources and obfuscate their
-messages, an aggregated analysis of spam
-messages is not enough.

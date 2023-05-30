@@ -1,3 +1,0 @@
-Honeyd also
-logs the Operating System of the source IP for each
-TCP connection, using passive fingerprinting techniques (Provos & Holz, 2007).
