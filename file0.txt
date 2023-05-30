@@ -1,4 +1,16 @@
-Moreover, we also found relations among operating systems, spam origin and abuse
-types, which extends the analysis presented on (Ramachandran & Feamster, 2006).
-A recent work on characterization of strategies of spam
-dissemination is presented in (Li & Hsieh, 2006).
+Figure 1
+shows the cumulative distribution function for the
+number of messages that are part of each campaign.
+We can see that while most campaigns are small, there
+is a significant number of campaigns which comprise
+more than 100,000 spam messages each.
+ 0.001
+ 0.01
+ 0.1
+ 1
+ 1000 10000 100000 1e+06
+P(X < x)
+CDF - number of messages on each spam campaign
+CDF
+Figure 1: Number of messages in each campaign
+Figure 2 shows a small portion of the resulting FPTree.
