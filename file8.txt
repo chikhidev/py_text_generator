@@ -1,0 +1,8 @@
+While US IP addresses are detected
+sending spams in Chinese through open relays (rule 9)
+and in English through Proxies (rule 10), US is also
+seen sending spams in Chinese through Proxies and
+SOCKS (rule 11), which is different from what is observed for the other country codes.
+From these results, we conclude that there is a strong
+relation between abuse type, origin and destination
+of spams.
