@@ -1,3 +1,6 @@
-The authors showed that some
-obfuscation techniques are abandoned over time, possibly due to changes in the environment, such as a bug
-fix on an e-mail client program.
+Prior work have reported that botnets
+usually send very low volumes of spams over longs periods (Ramachandran & Feamster, 2006), which is a
+strong evidence that, in fact, these open relay abuses
+spread worldwide are compromised infected machines.
+The results about abuses from AR illustrate that
+clearly.
