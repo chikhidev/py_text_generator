@@ -1,0 +1,3 @@
+The authors showed that some
+obfuscation techniques are abandoned over time, possibly due to changes in the environment, such as a bug
+fix on an e-mail client program.
