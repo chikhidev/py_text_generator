@@ -1,0 +1,3 @@
+An interesting fact is that 94 % of
+all connections were to port 25 (SMTP) of those machines, which could have been legitimate mail servers
+or open relays.
