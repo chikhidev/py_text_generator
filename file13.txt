@@ -1,0 +1,2 @@
+The diameter of the node is
+proportional to the log of the frequency of the characteristic in the campaign.
