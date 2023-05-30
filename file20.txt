@@ -1,0 +1,2 @@
+The goal of this paper
+is to characterize different spamming strategies employed by spam senders.
