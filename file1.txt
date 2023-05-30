@@ -1,4 +1,3 @@
-However,
-while their work analyzes the scam hosting infrastructure, our focus is on the characterization of the network infrastructure abuse.
-In fact, the idea of identifying spam campaigns is not
-new.
+SRUTI’05: Proceedings of the
+Steps to Reducing Unwanted Traffic on the Internet on Steps to Reducing Unwanted Traffic on the
+Internet Workshop (pp.
