@@ -1,7 +1,4 @@
-That refers to the three groupings
-at the bottom center discussed previously.
-5.2 Network patterns
-To understand how spammers use the network, we
-combine the analysis of grand totals from the collected
-data with information derived from the identification
-of campaigns and other data mining techniques.
+In summary, one fundamental aspect of our
+campaign identification technique is that obfuscation
+patterns are not defined a priori; they are naturally
+detected.
