@@ -1,0 +1,3 @@
+An open proxy allows
+connections to be made from any origin to any destination IP address or port, and is traditionally abused
+for sending spam.
