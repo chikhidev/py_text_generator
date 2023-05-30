@@ -1,0 +1,5 @@
+They often have a nearly
+empty body with some information about the machine
+probed and should be recognized and dealt with properly, otherwise spammers would leave and would not
+try to abuse the honeypot infrastructure (Andreolini
+et al., 2005).
