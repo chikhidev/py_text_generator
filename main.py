@@ -1,4 +1,4 @@
-import os
+import subprocess
 import random
 import time
 
@@ -6,7 +6,7 @@ import time
 num_files = 50
 
 # Load a text corpus to use as a basis for generating the random text
-with open("corpus.txt") as f:
+with open("corpus.txt", encoding="utf-8", errors="ignore") as f:
     text = f.read()
 
 # Split the text corpus into sentences
@@ -18,19 +18,21 @@ for i in range(num_files):
     random_sentence = random.choice(sentences)
 
     # Check if the random sentence is None before writing it to the file
-    file_name = f"file{i}.txt"
-	
+    file_name = f"./file{i}.txt"
+
     if random_sentence:
         # Write the sentence to a new file
-        with open(os.path.join(file_name), "w") as f:
+        with open(file_name, "w") as f:
             f.write(random_sentence.strip() + ".\n")
 
-        # Add, commit, and push the changes to the Git repository
-        os.system(f"git add {file_name}")
-        os.system(f"git commit -m 'Added {file_name}'")
-        os.system("git push origin master")
+        # Add and commit the changes to the Git repository
+        subprocess.run(["git", "add", "."])
+        subprocess.run(["git", "commit", "-m", f"Added {file_name}"])
+
+        # Push the changes to the Git repository (replace `origin` and `branch_name` with your actual values)
+        subprocess.run(["git", "push", "origin", "main"])
+
         sleep_time = random.randint(10, 30)
         time.sleep(sleep_time)
     else:
         print(f"Failed to generate random sentence for file {file_name}")
-
