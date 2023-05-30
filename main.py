@@ -30,7 +30,7 @@ for i in range(num_files):
         subprocess.run(["git", "commit", "-m", f"Added {file_name}"])
 
         # Push the changes to the Git repository (replace `origin` and `branch_name` with your actual values)
-        subprocess.run(["git", "push", "origin", "main"])
+        subprocess.run(["git", "push", "origin", "master"])
 
         sleep_time = random.randint(10, 30)
         time.sleep(sleep_time)

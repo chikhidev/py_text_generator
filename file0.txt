@@ -1,3 +1,4 @@
-An empirical study of
-clustering behavior of spammers and group-based
-anti-spam strategies.
+Moreover, we also found relations among operating systems, spam origin and abuse
+types, which extends the analysis presented on (Ramachandran & Feamster, 2006).
+A recent work on characterization of strategies of spam
+dissemination is presented in (Li & Hsieh, 2006).
