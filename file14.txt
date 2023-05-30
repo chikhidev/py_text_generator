@@ -1,0 +1,6 @@
+Although the honeypots were listening on several TCP ports, only the
+following were abused: 25, 80, 81 1080, 3127, 3128,
+3382, 4480, 6588, 8000 and 8080.
+All connections to the Honeyd modules were logged,
+including timestamp, client IP, destination IP and
+TCP port, as well as protocol requested.
