@@ -1,7 +1,3 @@
-That suggests a dedicated
-set of high-throughput machines in the first case, and
-a more widely distributed infra-structure in the second
-case.
-Behavior varies for different operating systems
-Finally, Table 6 unveils some strong patterns correlating the operating systems of the machines which
-abused the honeypots during the period of this analysis and the type of abuse associated to each one.
+Some statistics about the origin of the messages show the most
+common operating systems originating spams and the
+autonomous systems (AS) that account for the highest volume of spams.
