@@ -1,1 +1,3 @@
-Each path in the tree represents sets of features that co-occur in messages, in non-increasing order of frequency of occurrences.
+Rules 9 to 11 show
+the most common abuses related to messages being
+sent from US.
