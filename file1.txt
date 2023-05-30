@@ -1,3 +1,4 @@
-Berkeley, CA, USA:
-USENIX Association.
-Cavnar, W., & Trenkle, J.
+However,
+while their work analyzes the scam hosting infrastructure, our focus is on the characterization of the network infrastructure abuse.
+In fact, the idea of identifying spam campaigns is not
+new.
