@@ -1,4 +1,0 @@
-We define as an strategy any
-technique employed by spammers to maximize the effectiveness of their attacks, reducing the probability
-that the message is blocked by spam filters and preventing their activities of being identified and tracked.
-Our approach is to characterize spam campaigns in addition to individual messages.

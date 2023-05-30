@@ -1,4 +1,0 @@
-In practice, we want to minimize the effects of the obfuscation techniques employed
-by spammers, who systematically change the content
-of the messages they send, either the message body
-or subject (Sophos.com, 2004).

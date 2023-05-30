@@ -32,7 +32,7 @@ for i in range(num_files):
         # Push the changes to the Git repository (replace `origin` and `branch_name` with your actual values)
         subprocess.run(["git", "push", "origin", "master"])
 
-        sleep_time = random.randint(10, 30)
+        sleep_time = random.randint(8, 12)
         time.sleep(sleep_time)
     else:
         print(f"Failed to generate random sentence for file {file_name}")

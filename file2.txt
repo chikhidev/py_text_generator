@@ -1,6 +1,0 @@
-These random
-fragments cause the number of children to increase significantly, and are exactly the points in which the campaigns are delimited, that is, all the messages that are
-in the sub-trees beyond a significant increase in the
-number of children are grouped into the same campaign.
-We should emphasize that our approach is scalable because messages are not compared pairwise, what would
-lead to a quadratic complexity.

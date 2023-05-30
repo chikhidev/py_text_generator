@@ -1,5 +1,0 @@
-The obfuscation strategy already includes
-several criteria, and we envisage that others may be
-incorporated as those strategies evolve.
-In this context, the characterization may be seen as
-a two-step procedure.

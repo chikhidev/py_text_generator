@@ -1,3 +1,0 @@
-After that, message type and format
-come next, and URL fragments are usually the last
-discriminative feature added to the tree.
