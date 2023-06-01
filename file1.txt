@@ -1,0 +1,2 @@
+Rules 2 to 5 indicate that spams written in Chinese are also observed being sent from BR, AR, GB
+and PT abusing open relays, with high confidence.
