@@ -1,0 +1,3 @@
+We identified two major types of probe
+messages based on their format and programmed our
+honeypots to respond only to those messages.
