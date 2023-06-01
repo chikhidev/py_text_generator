@@ -1,0 +1,3 @@
+The
+message included IP address, port and protocol, and
+was intended to a recipient address under the spammer control.
