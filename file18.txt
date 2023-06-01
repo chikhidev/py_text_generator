@@ -1,0 +1,4 @@
+While TW primarily sends spams through
+HTTP and SOCKS aiming TW recipients (writing in
+Chinese), most of the other country codes (BR, AR,
+PT and other 139 CCs) abuse open relays sending messages in Chinese.
