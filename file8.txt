@@ -1,2 +1,0 @@
-Aggregate analysis on spam data is limited in determining spamming
-strategies.

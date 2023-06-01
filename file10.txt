@@ -1,4 +1,0 @@
-Message Type and Language
-are detected as important invariants, as only 21 types
-(including combinations, e.g.: spams which contain an
-HTML part with an image attachment).

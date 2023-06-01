@@ -3,7 +3,7 @@ import random
 import time
 
 # Define the number of files to create
-num_files = 50
+num_files = 20
 
 # Load a text corpus to use as a basis for generating the random text
 with open("corpus.txt", encoding="utf-8", errors="ignore") as f:

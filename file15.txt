@@ -1,6 +1,0 @@
-In
-general, spammers obfuscate and change the content
-of their messages on a systematic and automated way.
-They try to avoid sending identical messages, which
-would make the task of detecting his or her messages
-easier.

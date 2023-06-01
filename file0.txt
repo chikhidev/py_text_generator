@@ -1,14 +1,5 @@
-That
-is in fact a lower bound, since we considered only the
-addresses of honeypots with fixed IP addresses; there
-might be other requests targeted at honeypots in networks using dynamic addresses.
-In our continuing work we intend to classify addresses
-more precisely between relays and servers, and also
-understand how spammers find those open relays:
-whether from pre-assembled lists, or through active
-port scanning.
-Correlations among message features
-In search of evidences that would explain such differences regarding proxy and relay abuses, we correlated
-four different characteristics present on each campaign:
-the type of abuse, the message’s CC of origin, the intended CC of destination of the spam message and
-the language used.
+The high value for lift1
+in all
+cases (higher than 8) indicates that chances of observing abuses on open relays is much higher when the
+messages come from Linux, FreeBSD and Solaris computers, although these operating systems account for
+less than 3 % of the total flows observed.

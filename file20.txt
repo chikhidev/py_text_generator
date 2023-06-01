@@ -1,4 +1,0 @@
-All logs and data captured were then collected by a central server.
-Any spammer trying to abuse one of these honeypots
-to send spam would tend to believe that the emails
-were delivered successfully.

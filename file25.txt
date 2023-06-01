@@ -1,3 +1,0 @@
-Message layout is an important
-invariant to be considered for the purpose of grouping messages from the same campaign, since the general appearance of the messages remain unchanged, although spammers usually insert random pieces of text
-on their messages.
