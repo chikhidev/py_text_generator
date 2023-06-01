@@ -1,0 +1,3 @@
+Grouping messages into campaigns provides a summarization criteria, drastically reducing the amount of data
+to be treated, while maintaining their key characteris-
+tics.
