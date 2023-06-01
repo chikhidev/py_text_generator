@@ -1,0 +1,6 @@
+Also, an
+advantage of using honeypots was that all messages
+collected were spams, with no false positives.
+We used Honeyd (Provos & Holz, 2007) and its SMTP
+and HTTP server emulation subsystems to capture
+spam.
