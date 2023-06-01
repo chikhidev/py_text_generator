@@ -1,0 +1,2 @@
+The cost of the algorithm is the cost of inserting messages’ features in the
+FP-Tree, which is linear.
