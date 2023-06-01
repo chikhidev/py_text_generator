@@ -1,0 +1,2 @@
+In this tree, each node after the root represents a feature extracted from the
+spam messages which is shared by the sub-trees beneath.
